@@ -2,5 +2,4 @@ flask
 numpy
 numpy_financial
 pandas
-matplotlib
 gunicorn

@@ -2,7 +2,6 @@ import flask
 import numpy as np
 import numpy_financial as npf
 import pandas as pd
-import matplotlib.pyplot as plt
 
 app = flask.Flask(__name__, template_folder='templates')
 
